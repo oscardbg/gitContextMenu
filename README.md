@@ -1,4 +1,4 @@
-# gitContextMenu
+# Add open bash or open in cmder in the context menu
 Add open git bash and cmder in context menu
 
 This is not my code this is just the recopilation of code from some websites and youtube videos of poeople who made it and this works for me.
